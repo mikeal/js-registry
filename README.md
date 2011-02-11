@@ -1,1 +1,1 @@
-moved: <https://github.com/isaacs/npmjs.org>
+moved: <https://github.com/mikeal/npmjs.org>
